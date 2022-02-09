@@ -1,7 +1,7 @@
 # Colon-Cancer-Detection
 This model is exported from [Custom Vision Service](https://customvision.ai)
 
-# Demo Video Link
+# https://drive.google.com/file/d/1puqVowU9hDe0u0AOYd1jdfGoa31CeJFZ/view?usp=sharing
 
 
 ## Input specification
