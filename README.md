@@ -1,8 +1,8 @@
 # Colon-Cancer-Detection
 This model is exported from [Custom Vision Service](https://customvision.ai)
 
-# https://drive.google.com/file/d/1puqVowU9hDe0u0AOYd1jdfGoa31CeJFZ/view?usp=sharing
-
+# Demo video
+https://drive.google.com/file/d/1puqVowU9hDe0u0AOYd1jdfGoa31CeJFZ/view?usp=sharing
 
 ## Input specification
 This model expects 320x320, 3-channel RGB images. Pixel values need to be in the range of [0-255].
